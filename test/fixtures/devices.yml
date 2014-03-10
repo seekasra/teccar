@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  email: MyString
+  phone: MyString
+  did: MyString
+  regid: MyString
+  uid: MyString
+  validated_at: 2014-02-22 12:34:19
+  blocked_at: 2014-02-22 12:34:19
+
+two:
+  email: MyString
+  phone: MyString
+  did: MyString
+  regid: MyString
+  uid: MyString
+  validated_at: 2014-02-22 12:34:19
+  blocked_at: 2014-02-22 12:34:19
